@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <title>Tudo sobre Google Glass</title>
+    <link rel="icon" href="./_imagens/googler-icon.png">
     <link rel="stylesheet" href="./_css/estilo.css">
     <link rel="stylesheet" href="./_css/media.css">
     <link rel="stylesheet" href="./_css/fotos.css">
