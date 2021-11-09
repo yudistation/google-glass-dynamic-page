@@ -62,11 +62,8 @@
             e até mesmo permitir que você marque encontros apenas com comandos de voz.
         </p>
 
-        <div class="videos">
-            <video id="video-01" controls poster="_imagens/video-mini01.jpg">
-                <source src="_media/how-it-feels.mp4" type="video/mp4" />
-                Desculpe, mas não foi possivel carregar o vídeo.
-            </video>
+        <div>
+            <iframe width="500" height="281" src="https://www.youtube.com/embed/Q-Gwb61aAq4?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </article>
 </section>
@@ -74,11 +71,8 @@
     <h1>Outras Notícias</h1>
     <h2>Vídeo mais recente</h2>
 
-    <div class="videos">
-        <video id="video-02" controls poster="./_imagens/video-mini02.jpg">
-            <source src="./_media/one-day.mp4" type="video/mp4" />
-            Desculpe, mas não foi possivel carregar o vídeo.
-        </video>
+    <div>
+    <iframe width="350" height="197" src="https://www.youtube.com/embed/5R1snVxGNVs?controls=0&enablejsapi=1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
     <h2>Novidades no Glass</h2>

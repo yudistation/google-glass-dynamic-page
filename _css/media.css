@@ -1,12 +1,4 @@
 @charset "UTF-8";
-video#video-01 {
-    width: 500px;
-}
-
-video#video-02 {
-    width: 350px;
-}
-
 div#tv-radio {
     width: 900px;
     height: 580px;
