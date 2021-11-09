@@ -29,7 +29,7 @@
 
         <h2>Especificações Técnicas</h2>
         <table id="tabelaspec">
-            <caption>Tabela Técnica do Google Glass <span>Mar/2013</span></caption>
+            <caption>Tabela Técnica do Google Glass <span>Nov/2021</span></caption>
             <tr>
                 <td class="col-left">Tela</td>
                 <td class="col-right">Resolução equivalente a tela de 25"</td>
