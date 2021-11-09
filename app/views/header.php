@@ -6,6 +6,8 @@
     <title>Tudo sobre Google Glass</title>
     <link rel="stylesheet" href="./_css/estilo.css">
     <link rel="stylesheet" href="./_css/media.css">
+    <link rel="stylesheet" href="./_css/fotos.css">
+    <link rel="stylesheet" href="./_css/form.css">
 </head>
 <script language="JavaScript" src="_javascript/funcoes.js"></script>
 

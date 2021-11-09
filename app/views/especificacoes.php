@@ -1,11 +1,14 @@
+<head>
+    <link rel="stylesheet" href="./_css/specs.css">
+</head>
 <section id="corpo-full">
     <article id="main-news">
         <header id="article-header">
             <hgroup>
                 <h3>Glass > Especificações</h3>
                 <h1>Raio-X no Google Glass</h1>
-                <h2>por Gustavo Guanabara</h2>
-                <h3 class="right">Atualizado em 01/Maio/2013</h3>
+                <h2>por Yudi Takeda</h2>
+                <h3 class="right">Atualizado em 08/Nov/2021</h3>
             </hgroup>
         </header>
 

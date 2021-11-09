@@ -4,8 +4,8 @@
             <hgroup>
                 <h3>Tecnologia > Inovações</h3>
                 <h1>Saiba tudo sobre o Google Glass</h1>
-                <h2>por Gustavo Guanabara</h2>
-                <h3 class="right">Atualizado em 23/Abril/2013</h3>
+                <h2>por Yudi Takeda</h2>
+                <h3 class="right">Atualizado em 08/Nov/2021</h3>
             </hgroup>
         </header>
         <h2>O que é</h2>

@@ -4,8 +4,8 @@
             <hgroup>
                 <h3>Glass > Fotos</h3>
                 <h1>Galeria de Imagens do Google Glass</h1>
-                <h2>por Gustavo Guanabara</h2>
-                <h3 class="right">Atualizado em 01/Maio/2013</h3>
+                <h2>por Yudi Takeda</h2>
+                <h3 class="right">Atualizado em 08/Nov/2021</h3>
             </hgroup>
         </header>
         <p>
