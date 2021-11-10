@@ -10,16 +10,16 @@ include 'app/views/header.php';
 
 /* Carrega a página escolhida pelo usuário */
 switch ($pagina) {
-    case 'multimidia':
-        include 'app/views/multimidia.php';
+    case 'especificacoes':
+        include 'app/views/especificacoes.php';
         break;
 
     case 'fotos':
         include 'app/views/fotos.php';
         break;
 
-    case 'especificacoes':
-        include 'app/views/especificacoes.php';
+    case 'multimidia':
+        include 'app/views/multimidia.php';
         break;
 
     case 'fale-conosco':
